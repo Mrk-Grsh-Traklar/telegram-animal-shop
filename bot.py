@@ -1,7 +1,7 @@
 import telebot as tb
 from telebot import types
 
-Token = '7175732877:AAGKjHDw4DeTu5cfFeZIHCCRug2wxVAqcHM'
+Token = 'TOKEN'
 bot = tb.TeleBot(Token)
 
 print('started')
